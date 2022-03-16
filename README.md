@@ -43,7 +43,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/gustavo-paniza-salas-536650231/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gustavo%20Paniza%20Salas-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/gustavo-paniza-salas-536650231/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gustavo%20Paniza-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://www.instagram.com/gustavo_paniza/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Gustavo_Paniza-black?style=flat-square&logo=instagram"></a>
 
