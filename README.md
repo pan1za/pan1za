@@ -34,8 +34,7 @@
 [![Pan1za's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pan1za&show_icons=true)](https://github.com/pan1za)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pan1za&show_icons=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pan1za)](https://github.com/pan1za/github-readme-stats)
 
 <hr>
 
